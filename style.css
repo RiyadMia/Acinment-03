@@ -19,24 +19,31 @@
 .helf-bg{
     background-color: lightsalmon ;
 }
+.color{
+    background-color: linen;
+}
 .top{
     margin-top: 20%;
 }
   .btn{
       border: none;
-      background-color: lavenderblush;
+      background-color: white;
   }
-  /* <!-- Questions  --> */
   .fa-angle-up{
     margin-left: 62%;
   }
   .margin{
       margin-left: 25%;
   }
+  /* mobile  */
+  .mobile{
+      border: none;
+      background-color: orange;
+      width: 100px;
+  }
   /* footer  */
 .margin-left{
- 
     padding-left: 50%;
 }
- ;
+
  
