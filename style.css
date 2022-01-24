@@ -1,6 +1,6 @@
  /* media  */
  @media only screen and (max-width:688px) {
-
+/* heder  */
    .media{
     grid-template-columns: repeat(1, 1fr);
     flex-direction: column;
@@ -47,8 +47,8 @@
       width: 100px;
   }
   /* footer  */
-.margin-left{
-    padding-left: 50%;
+.helf-margin{
+    margin-left: 78%;
 }
 
  
